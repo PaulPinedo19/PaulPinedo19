@@ -1,4 +1,5 @@
 - 👋 Hola, soy @PaulPinedo19
+- 🎓 Soy estudiante de Ingenieria en Sistemas 
 - 👀 Me interesa aprender más sobre desarrollo web y programación backend.
 - 🌱 Actualmente estoy aprendiendo C, C#, HTML, CSS y JavaScript.
 - 💞️ Estoy buscando colaborar en proyectos de código abierto relacionados con desarrollo full-stack o herramientas de automatización.
